@@ -1,6 +1,6 @@
 # SOMMAIRE
 
-### MODULE-01 : 
+## MODULE-01 : 
 ### Introduction au framework Java Spring
 - Étape 01 - Comprendre le besoin du framework Java Spring
 - Étape 02 - Introduction au framework Java Spring
@@ -20,7 +20,7 @@
 - Étape 16 - Plus de questions sur le framework Java Spring - Qu'allons-nous apprendre ?
 - Étape 17 - Exploration du framework Spring avec Java
 
-### MODULE-02 : 
+## MODULE-02 : 
 ### Utilisation du framework Spring pour créer et gérer vos objets Java
 - Étape 01 - Utilisation du framework Spring pour créer et gérer vos objets Java
 - Étape 02 - Exploration des annotations Primary et Qualifier pour les composants Spring
@@ -52,9 +52,9 @@ FIN DU SOMMAIRE
 ----
 
 
-### MODULE-01 : 
+# MODULE-01 : 
 
-# Maîtriser Spring et Spring Boot
+## Maîtriser Spring et Spring Boot
 
 **Spring et Spring Boot** sont les **frameworks numéro 1** pour construire des applications d'entreprise dans le monde Java. 
 
