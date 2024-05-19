@@ -50,6 +50,7 @@
 - Étape 16 - Plus de questions sur le framework Java Spring - Qu'allons-nous apprendre ?
 - Étape 17 - Exploration du framework Spring avec Java
 
+### MODULE-02 : 
 ### Utilisation du framework Spring pour créer et gérer vos objets Java
 - Étape 01 - Utilisation du framework Spring pour créer et gérer vos objets Java
 - Étape 02 - Exploration des annotations Primary et Qualifier pour les composants Spring
@@ -61,7 +62,8 @@
 - Étape 08 - Exercice/Solution pour un exemple réel de framework Java Spring
 - Étape 09 - Exploration du framework Spring avec Java - Révision de la section 2
 
-### Exploration des fonctionnalités avancées du framework Spring
+### MODULE-03 : 
+### Exploration des fonctionnalités avancées du framework Spring MICROSERVICE ET DEVOPS DOCKER ETC...
 - Étape 01 - Exploration de l'initialisation paresseuse et hâtive des beans Spring
 - Étape 02 - Comparaison entre l'initialisation paresseuse et l'initialisation hâtive
 - Étape 03 - Exploration des scopes de beans Spring - Prototype et Singleton
@@ -75,7 +77,29 @@
 - Étape 11 - Révision rapide - Annotations importantes du framework Spring
 - Étape 12 - Révision rapide - Concepts importants du framework Spring
 - Étape 13 - Exploration de la vue d'ensemble de Spring - Framework, modules et projets
+----
 
+
+# RESTRUCTURATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
 ### Introduction à Spring Boot
 - Étape 01 - Introduction à Spring Boot - Objectifs
 - Étape 02 - Comprendre le monde avant Spring Boot - Vue d'ensemble à 10000 pieds
