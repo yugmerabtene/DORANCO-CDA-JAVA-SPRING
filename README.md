@@ -1,52 +1,10 @@
 # SOMMAIRE
 
 ## MODULE-01 : 
-### Introduction au framework Java Spring
-- Étape 01 - Comprendre le besoin du framework Java Spring
-- Étape 02 - Introduction au framework Java Spring
-- Étape 03 - Créer un nouveau projet Spring Framework avec Maven et Java
-- Étape 04 - Introduction à l'application de jeu Java
-- Étape 05 - Comprendre le couplage faible et le couplage fort
-- Étape 06 - Introduction à l'interface Java pour rendre l'application faiblement couplée
-- Étape 07 - Introduction du framework Spring pour rendre l'application Java faiblement couplée
-- Étape 08 - Votre premier Java Spring Bean et lancement de la configuration Java Spring
-- Étape 09 - Création de plus de Java Spring Beans dans le fichier de configuration Java Spring
-- Étape 10 - Implémentation de l'auto-wiring dans le fichier de configuration Java Spring
-- Étape 11 - Questions sur le framework Spring - Qu'allons-nous apprendre ?
-- Étape 12 - Comprendre le conteneur IOC de Spring - Application Context et Bean Factory
-- Étape 13 - Exploration de Java Bean vs POJO vs Spring Bean
-- Étape 14 - Exploration de l'auto-wiring des beans Spring - Annotations Primary et Qualifier
-- Étape 15 - Utilisation du framework Spring pour gérer les beans pour l'application de jeu Java
-- Étape 16 - Plus de questions sur le framework Java Spring - Qu'allons-nous apprendre ?
-- Étape 17 - Exploration du framework Spring avec Java
+### Introduction à spring boot :
+#### Installation
+#### 
 
-## MODULE-02 : 
-### Utilisation du framework Spring pour créer et gérer vos objets Java
-- Étape 01 - Utilisation du framework Spring pour créer et gérer vos objets Java
-- Étape 02 - Exploration des annotations Primary et Qualifier pour les composants Spring
-- Étape 03 - Primary et Qualifier - Quelle annotation Spring devriez-vous utiliser ?
-- Étape 04 - Exploration du framework Spring - Différents types d'injection de dépendances
-- Étape 05 - Framework Java Spring - Comprendre la terminologie importante
-- Étape 06 - Framework Java Spring - Comparaison @Component vs @Bean
-- Étape 07 - Pourquoi avons-nous des dépendances dans les applications Java Spring ?
-- Étape 08 - Exercice/Solution pour un exemple réel de framework Java Spring
-- Étape 09 - Exploration du framework Spring avec Java - Révision de la section 2
-
-### MODULE-03 : 
-### Exploration des fonctionnalités avancées du framework Spring MICROSERVICE ET DEVOPS DOCKER ETC...
-- Étape 01 - Exploration de l'initialisation paresseuse et hâtive des beans Spring
-- Étape 02 - Comparaison entre l'initialisation paresseuse et l'initialisation hâtive
-- Étape 03 - Exploration des scopes de beans Spring - Prototype et Singleton
-- Étape 04 - Comparaison entre Prototype et Singleton - Scopes de beans Spring
-- Étape 05 - Exploration des beans Spring - PostConstruct et PreDestroy
-- Étape 06 - Évolution de Jakarta EE - Comparaison avec J2EE et Java EE
-- Étape 07 - Exploration de Jakarta CDI avec le framework Spring et Java
-- Étape 08 - Exploration de la configuration XML de Java Spring
-- Étape 09 - Exploration des annotations Java vs configuration XML pour le framework Java Spring
-- Étape 10 - Exploration des annotations de stéréotype Spring - Component et autres
-- Étape 11 - Révision rapide - Annotations importantes du framework Spring
-- Étape 12 - Révision rapide - Concepts importants du framework Spring
-- Étape 13 - Exploration de la vue d'ensemble de Spring - Framework, modules et projets
 ----
 FIN DU SOMMAIRE
 ----
@@ -98,8 +56,55 @@ FIN DU SOMMAIRE
 
 
 ----
-A PIOCHER DEDANS
+SUITE
 ----
+
+### Introduction au framework Java Spring
+- Étape 01 - Comprendre le besoin du framework Java Spring
+- Étape 02 - Introduction au framework Java Spring
+- Étape 03 - Créer un nouveau projet Spring Framework avec Maven et Java
+- Étape 04 - Introduction à l'application de jeu Java
+- Étape 05 - Comprendre le couplage faible et le couplage fort
+- Étape 06 - Introduction à l'interface Java pour rendre l'application faiblement couplée
+- Étape 07 - Introduction du framework Spring pour rendre l'application Java faiblement couplée
+- Étape 08 - Votre premier Java Spring Bean et lancement de la configuration Java Spring
+- Étape 09 - Création de plus de Java Spring Beans dans le fichier de configuration Java Spring
+- Étape 10 - Implémentation de l'auto-wiring dans le fichier de configuration Java Spring
+- Étape 11 - Questions sur le framework Spring - Qu'allons-nous apprendre ?
+- Étape 12 - Comprendre le conteneur IOC de Spring - Application Context et Bean Factory
+- Étape 13 - Exploration de Java Bean vs POJO vs Spring Bean
+- Étape 14 - Exploration de l'auto-wiring des beans Spring - Annotations Primary et Qualifier
+- Étape 15 - Utilisation du framework Spring pour gérer les beans pour l'application de jeu Java
+- Étape 16 - Plus de questions sur le framework Java Spring - Qu'allons-nous apprendre ?
+- Étape 17 - Exploration du framework Spring avec Java
+
+## MODULE-02 : 
+### Utilisation du framework Spring pour créer et gérer vos objets Java
+- Étape 01 - Utilisation du framework Spring pour créer et gérer vos objets Java
+- Étape 02 - Exploration des annotations Primary et Qualifier pour les composants Spring
+- Étape 03 - Primary et Qualifier - Quelle annotation Spring devriez-vous utiliser ?
+- Étape 04 - Exploration du framework Spring - Différents types d'injection de dépendances
+- Étape 05 - Framework Java Spring - Comprendre la terminologie importante
+- Étape 06 - Framework Java Spring - Comparaison @Component vs @Bean
+- Étape 07 - Pourquoi avons-nous des dépendances dans les applications Java Spring ?
+- Étape 08 - Exercice/Solution pour un exemple réel de framework Java Spring
+- Étape 09 - Exploration du framework Spring avec Java - Révision de la section 2
+
+### MODULE-03 : 
+### Exploration des fonctionnalités avancées du framework Spring MICROSERVICE ET DEVOPS DOCKER ETC...
+- Étape 01 - Exploration de l'initialisation paresseuse et hâtive des beans Spring
+- Étape 02 - Comparaison entre l'initialisation paresseuse et l'initialisation hâtive
+- Étape 03 - Exploration des scopes de beans Spring - Prototype et Singleton
+- Étape 04 - Comparaison entre Prototype et Singleton - Scopes de beans Spring
+- Étape 05 - Exploration des beans Spring - PostConstruct et PreDestroy
+- Étape 06 - Évolution de Jakarta EE - Comparaison avec J2EE et Java EE
+- Étape 07 - Exploration de Jakarta CDI avec le framework Spring et Java
+- Étape 08 - Exploration de la configuration XML de Java Spring
+- Étape 09 - Exploration des annotations Java vs configuration XML pour le framework Java Spring
+- Étape 10 - Exploration des annotations de stéréotype Spring - Component et autres
+- Étape 11 - Révision rapide - Annotations importantes du framework Spring
+- Étape 12 - Révision rapide - Concepts importants du framework Spring
+- Étape 13 - Exploration de la vue d'ensemble de Spring - Framework, modules et projets
 ### Introduction à Spring Boot
 - Étape 01 - Introduction à Spring Boot - Objectifs
 - Étape 02 - Comprendre le monde avant Spring Boot - Vue d'ensemble à 10000 pieds
