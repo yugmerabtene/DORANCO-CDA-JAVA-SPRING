@@ -30,9 +30,7 @@
 
 ## Cours
 
-### Introduction - Maîtriser le framework Spring et Spring Boot
-- Introduction - Maîtriser le framework Spring et Spring Boot
-
+### MODULE-01 : 
 ### Introduction au framework Java Spring
 - Étape 01 - Comprendre le besoin du framework Java Spring
 - Étape 02 - Introduction au framework Java Spring
