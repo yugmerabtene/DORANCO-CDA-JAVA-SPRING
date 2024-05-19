@@ -28,7 +28,7 @@
 #### Dépannage
 - Configurer Java dans Eclipse - [https://www.youtube.com/watch?v=8i0r_fcE3L0](https://www.youtube.com/watch?v=8i0r_fcE3L0)
 
-## Cours
+# SOMMAIRE
 
 ### MODULE-01 : 
 ### Introduction au framework Java Spring
@@ -78,20 +78,18 @@
 - Étape 12 - Révision rapide - Concepts importants du framework Spring
 - Étape 13 - Exploration de la vue d'ensemble de Spring - Framework, modules et projets
 ----
+FIN DU SOMMAIRE
+----
 
 
-# RESTRUCTURATION
+### MODULE-01 : 
+### Introduction au framework Java Spring
+
+#### Evolution des architectures web et applicative : 
+![image](https://github.com/yugmerabtene/DORANCO-CDA-JAVA-SPRING/assets/3670077/c08d101c-db5d-4f41-ac77-b095f9d17cf2)  
 
 
-
-
-
-
-
-
-
-
-
+- Étape 01 - Pourquoi utiliser le framework Java Spring
 
 
 
@@ -99,6 +97,8 @@
 
 
 
+----
+A PIOCHER DEDANS
 ----
 ### Introduction à Spring Boot
 - Étape 01 - Introduction à Spring Boot - Objectifs
