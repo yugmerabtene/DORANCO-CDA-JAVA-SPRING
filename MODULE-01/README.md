@@ -1,5 +1,11 @@
 ### MODULE-01 : 
 ### Introduction au framework Java Spring
+
+## Evolution des architectures web et applicative : 
+![image](https://github.com/yugmerabtene/DORANCO-CDA-JAVA-SPRING/assets/3670077/c08d101c-db5d-4f41-ac77-b095f9d17cf2)  
+
+
+
 - Étape 01 - Pourquoi utiliser le framework Java Spring
 - Étape 02 - Introduction au framework Java Spring
 - Étape 03 - Créer un nouveau projet Spring Framework avec Maven et Java
