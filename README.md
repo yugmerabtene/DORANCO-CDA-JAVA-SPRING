@@ -48,7 +48,7 @@
 - Étape 14 - Exploration de l'auto-wiring des beans Spring - Annotations Primary et Qualifier
 - Étape 15 - Utilisation du framework Spring pour gérer les beans pour l'application de jeu Java
 - Étape 16 - Plus de questions sur le framework Java Spring - Qu'allons-nous apprendre ?
-- Étape 17 - Exploration du framework Spring avec Java - Révision de la section 1
+- Étape 17 - Exploration du framework Spring avec Java
 
 ### Utilisation du framework Spring pour créer et gérer vos objets Java
 - Étape 01 - Utilisation du framework Spring pour créer et gérer vos objets Java
