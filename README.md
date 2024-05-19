@@ -1,33 +1,3 @@
-# Maîtriser Spring et Spring Boot
-
-**Spring et Spring Boot** sont les **frameworks numéro 1** pour construire des applications d'entreprise dans le monde Java. 
-
-## Installation des outils
-
-### Recommandations
-
-- Utilisez la **version la plus récente** de Java
-- Utilisez la **version la plus récente** de "Eclipse IDE for Enterprise Java Developers"
-- N'oubliez pas : Spring Boot 3+ fonctionne uniquement avec Java 17+
-
-### Installer Java
-
-- Windows - [https://www.youtube.com/watch?v=I0SBRWVS0ok](https://www.youtube.com/watch?v=I0SBRWVS0ok)
-- Linux - [https://www.youtube.com/watch?v=mHvFpyHK97A](https://www.youtube.com/watch?v=mHvFpyHK97A)
-- Mac - [https://www.youtube.com/watch?v=U3kTdMPlgsY](https://www.youtube.com/watch?v=U3kTdMPlgsY)
-
-#### Dépannage
-
-- Dépannage de l'installation de Java - [https://www.youtube.com/watch?v=UI_PabQ1YB0](https://www.youtube.com/watch?v=UI_PabQ1YB0)
-
-### Installer Eclipse
-
-- Windows - [https://www.youtube.com/watch?v=toY06tsME-M](https://www.youtube.com/watch?v=toY06tsME-M)
-- Autres - [https://www.youtube.com/watch?v=XveQ9Gq41UM](https://www.youtube.com/watch?v=XveQ9Gq41UM)
-
-#### Dépannage
-- Configurer Java dans Eclipse - [https://www.youtube.com/watch?v=8i0r_fcE3L0](https://www.youtube.com/watch?v=8i0r_fcE3L0)
-
 # SOMMAIRE
 
 ### MODULE-01 : 
@@ -83,13 +53,43 @@ FIN DU SOMMAIRE
 
 
 ### MODULE-01 : 
+
+# Maîtriser Spring et Spring Boot
+
+**Spring et Spring Boot** sont les **frameworks numéro 1** pour construire des applications d'entreprise dans le monde Java. 
+
+## Installation des outils
+
+### Recommandations
+
+- Utilisez la **version la plus récente** de Java
+- Utilisez la **version la plus récente** de "Eclipse IDE for Enterprise Java Developers"
+- N'oubliez pas : Spring Boot 3+ fonctionne uniquement avec Java 17+
+
+### Installer Java
+
+- Windows - [https://www.youtube.com/watch?v=I0SBRWVS0ok](https://www.youtube.com/watch?v=I0SBRWVS0ok)
+- Linux - [https://www.youtube.com/watch?v=mHvFpyHK97A](https://www.youtube.com/watch?v=mHvFpyHK97A)
+- Mac - [https://www.youtube.com/watch?v=U3kTdMPlgsY](https://www.youtube.com/watch?v=U3kTdMPlgsY)
+
+#### Dépannage
+
+- Dépannage de l'installation de Java - [https://www.youtube.com/watch?v=UI_PabQ1YB0](https://www.youtube.com/watch?v=UI_PabQ1YB0)
+
+### Installer Eclipse
+
+- Windows - [https://www.youtube.com/watch?v=toY06tsME-M](https://www.youtube.com/watch?v=toY06tsME-M)
+- Autres - [https://www.youtube.com/watch?v=XveQ9Gq41UM](https://www.youtube.com/watch?v=XveQ9Gq41UM)
+
+#### Dépannage
+- Configurer Java dans Eclipse - [https://www.youtube.com/watch?v=8i0r_fcE3L0](https://www.youtube.com/watch?v=8i0r_fcE3L0)
 ### Introduction au framework Java Spring
 
 #### Evolution des architectures web et applicative : 
 ![image](https://github.com/yugmerabtene/DORANCO-CDA-JAVA-SPRING/assets/3670077/c08d101c-db5d-4f41-ac77-b095f9d17cf2)  
 
 
-- Étape 01 - Pourquoi utiliser le framework Java Spring
+
 
 
 
