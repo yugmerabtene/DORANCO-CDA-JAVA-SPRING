@@ -14,7 +14,9 @@ public class Produit {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    @Column(length = 50)
     private String nom;
+    @Column(length = 50)
     private String descirption;
     private Integer prix;
 
